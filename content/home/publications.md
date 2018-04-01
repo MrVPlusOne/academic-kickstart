@@ -3,9 +3,9 @@
 # This widget displays recent publications from `content/publication/`.
 widget = "publications"
 active = true
-date = 2016-04-20
+date = 2018-04-01
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -36,3 +36,4 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
+## Coming Soon!
