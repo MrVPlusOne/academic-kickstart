@@ -1,7 +1,7 @@
 +++
 title = "Singularity: Pattern Fuzzing for Worst Case Complexity"
 date = 2018-03-10T15:29:11-05:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jiayi Wei", "Jia Chen", "Yu Feng", "Kostas Ferles", "Isil Dillig"]

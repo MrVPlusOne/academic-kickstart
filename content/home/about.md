@@ -18,7 +18,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Computer Science"
-  institution = "University of Texas at Austin"
+  institution = "The University of Texas at Austin"
   year = "2018 -- present"
 
 
@@ -33,6 +33,6 @@ weight = 5
 
 I am a *0th-year* Computer Science PhD student at the University of Texas at Austin.  I am a member of the [UTOPIA Research Group](http://utopia.cs.utexas.edu) where I work with my adviser [Prof. Işıl Dillig](http://www.cs.utexas.edu/~isil/) on research problems related to programming languages (PL).
 
-My current research interests lie within the intersection of Programming Languages, Formal methods, and Artificial Intelligence, and I am particularly interested in teaching computers how to reason about programs using "mathematical intuition". My long-term research goal is to explore ways to integrate machine learning techniques into PL techniques such that we can develop more scalable approaches for automated program analysis and synthesis.
+My current research interests lie within the intersection of Programming Languages, Formal Methods, and Artificial Intelligence, and I am particularly interested in teaching computers how to reason about programs using a "mathematical intuition". My long-term research goal is to develop scalable approaches for automated program analysis and synthesis through the integration of both machine learning and PL techniques.
 
-Before I joined UTOPIA, I received my bachelor's degree in Physics at the University of Science and Technology of China.
+Before I joined UTOPIA, I received my bachelor's degree in Physics from the University of Science and Technology of China.
