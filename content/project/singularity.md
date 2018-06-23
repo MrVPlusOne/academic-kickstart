@@ -14,7 +14,7 @@ summary = "An automated pattern fuzzing framework for determining the worst-case
 image_preview = "Singularity.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://github.com/MrVPlusOne/Singularity"
 
 # Does the project detail page use math formatting?
 math = false
@@ -29,4 +29,4 @@ image = ""
 caption = ""
 
 +++
-Source code coming soon!
+

@@ -44,10 +44,10 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/MrVPlusOne/Singularity"
 url_dataset = ""
 url_project = ""
-url_slides = "/slides/Singularity_STAC.pdf"
+url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
