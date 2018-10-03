@@ -31,8 +31,9 @@ weight = 5
 
 # Biography
 
-I am a *0th-year* Computer Science PhD student at the University of Texas at Austin.  I am a member of the [UTOPIA Research Group](http://utopia.cs.utexas.edu) where I work with my adviser [Prof. Işıl Dillig](http://www.cs.utexas.edu/~isil/) on research problems related to programming languages (PL).
+I am a *1st-year* Computer Science PhD student at the University of Texas at Austin.  I am a member of the [UTOPIA Research Group](http://utopia.cs.utexas.edu) where I work with my adviser [Prof. Işıl Dillig](http://www.cs.utexas.edu/~isil/) on research problems related to Programming Languages.
 
-My current research interests lie within the intersection of Programming Languages, Formal Methods, and Artificial Intelligence, and I am particularly interested in teaching computers how to reason about programs using a "mathematical intuition". My long-term research goal is to develop scalable approaches for automated program analysis and synthesis through the integration of both machine learning and PL techniques.
+My research interests lie within the intersection of Programming Languages, Formal Methods, and Artificial Intelligence. In particular, I am interested in developing automated approaches for software testing, program synthesis, and theorem proving. My current research focuses on combining machine learning techniques, such as Evolutionary Algorithms and Reinforcement Learning, with more traditional programming language techniques like Symbolic Deduction or SMT Solvers.
+
 
 Before I joined UTOPIA, I received my bachelor's degree in Physics from the University of Science and Technology of China.
