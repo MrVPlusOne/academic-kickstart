@@ -1,6 +1,6 @@
 +++
 title = "Singularity: Pattern Fuzzing for Worst Case Complexity"
-date = "2018-11-06T00:00:00"
+date = "2018-03-09T00:00:00"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
