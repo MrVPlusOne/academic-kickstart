@@ -1,6 +1,6 @@
 +++
 title = "Singularity"
-date = 2018-03-10T16:50:54-05:00
+date = "2018-11-06T00:00:00"
 draft = false
 
 # Tags: can be used for filtering projects.
