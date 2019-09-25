@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = "2016-04-20T00:00:00"
+date = "2019-02-16T00:00:00"
 
 # Order that this section will appear in.
 weight = 5
@@ -31,9 +31,12 @@ weight = 5
 
 # Biography
 
-I am a *1st-year* Computer Science PhD student at the University of Texas at Austin.  I am a member of the [UTOPIA Research Group](http://utopia.cs.utexas.edu) where I work with my adviser [Prof. Işıl Dillig](http://www.cs.utexas.edu/~isil/) on research problems related to Programming Languages.
+I am a 2nd-year Computer Science PhD student at UT Austin, where I work with my adviser [Işıl Dillig](http://www.cs.utexas.edu/~isil/) in the [UTOPIA Research Group](http://utopia.cs.utexas.edu). 
 
-My research interests lie within the intersection of Programming Languages, Formal Methods, and Artificial Intelligence. In particular, I am interested in developing automated approaches for software testing, program synthesis, and theorem proving. My current research focuses on combining machine learning techniques, such as Evolutionary Algorithms and Reinforcement Learning, with more traditional programming language techniques like Symbolic Deduction or SMT Solvers.
+My research focuses on combining machine learning and AI with programming language techniques. In particular, I am interested in tackling challenging tasks that require reasoning about discrete and abstract mathematical objects (e.g., programs, logical formulas, and type systems). 
+ 
+So far, my colleagues and I have applied evolutionary algorithms to synthesizing input patterns that trigger program worst-case behaviors, reinforcement learning to synthesizing proofs about relational program properties, and currently, graph neural networks to infer type annotations for gradually typed programs.
 
 
-Before I joined UTOPIA, I received my bachelor's degree in Physics from the University of Science and Technology of China.
+Before joining UTOPIA, I received my bachelor's degree in Physics from the University of Science and Technology of China.
+

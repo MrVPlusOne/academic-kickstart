@@ -10,7 +10,7 @@ title = "Jiayi Wei"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018 Jiayi Wei. Last Update: 10/03/2018"
+copyright = "&copy; 2018 Jiayi Wei. Last Update: 02/16/2019"
 
 theme = "academic"
 enableEmoji = true
@@ -50,7 +50,7 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Jiayi Wei  魏家一"
+  name = "Jiayi Wei 魏家一"
   role = "CS PhD Student"
 
   # Organizations/Affiliations.
@@ -59,7 +59,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profile.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "wjydzh1@gmail.com"
+  email = "MrVPlusOne@gmail.com"
   address = "GDC 5.818D, 2317 Speedway, Austin, TX. 78712-0233 "
   office_hours = ""
   phone = ""
@@ -217,7 +217,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:wjydzh1@gmail.com"
+    link = "mailto:MrVPlusOne@gmail.com"
 
   [[params.social]]
     icon = "github"
@@ -259,14 +259,14 @@ defaultContentLanguageInSubdir = false
 #  weight = 3
 
 [[menu.main]]
-  name = "Projects"
+  name = "Software"
   url = "#projects"
   weight = 3
 
-[[menu.main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 4
+#[[menu.main]]
+#  name = "Talks"
+#  url = "#talks"
+#  weight = 4
 
 #[[menu.main]]
 #  name = "Teaching"
